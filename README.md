@@ -1,1 +1,2 @@
 # Badlion-Grabber
+Discord = qhiro
